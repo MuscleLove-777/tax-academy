@@ -1,0 +1,12 @@
+# 節税 Academy
+
+> 節税 Academy
+
+## Main Pages
+
+- [tax academy](https://musclelove-777.github.io/tax-academy/): main page of 節税 Academy.
+
+## About this file
+
+This llms.txt follows the llmstxt.org proposal and lists the main entry points of this site for LLM-based crawlers and AI search agents.
+Generated automatically from sitemap.xml. Source repository: https://github.com/MuscleLove-777/tax-academy
